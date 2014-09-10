@@ -1,0 +1,8 @@
+--Pseudo-Code for story 1-0
+
+BEGIN TRY
+	do something
+END TRY
+BEGIN CATCH
+	raiserror
+END CATCH
